@@ -1,3 +1,5 @@
+In java :-
+
 class Solution {
   public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> numToIndex = new HashMap<>();
@@ -12,7 +14,7 @@ class Solution {
   }
 }
 ------------------------------------------------------------
-Another Method:
+Another Method in java:
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int arr[] = new int[2];
